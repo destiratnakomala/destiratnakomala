@@ -13,7 +13,8 @@
  🌱 I’m currently learning **Machine Learning, Deep Learning, AI **
 
  💬 Ask me about **Data Science... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/destiratnakomala/destiratnakomala/issues))**
- @ Get in touch with me [@destiratnakomala]
+ 
+ @ Get in touch with me **destiratnakomala@gmail.com**
 
  ⚡ Fun fact **OnePiece is the most sold manga of all time**
  
