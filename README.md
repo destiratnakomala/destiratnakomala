@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Desti+Ratna+Komala!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Desti+Ratna+Komala!;" />
 </h1>
 
 - :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf)
