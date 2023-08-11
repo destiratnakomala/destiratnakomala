@@ -14,7 +14,7 @@
  
  📖 I’m currently working on **Deep Learning Classification**
  
- 🌱 I’m currently learning **Machine Learning, Deep Learning, AI **
+ 🌱 I’m currently learning **Machine Learning, Deep Learning, AI**
 
  💬 Ask me about **Data Science... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/destiratnakomala/destiratnakomala/issues))**
  
