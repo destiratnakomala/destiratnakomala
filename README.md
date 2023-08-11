@@ -19,7 +19,7 @@
  ⚡ Fun fact **OnePiece is the most sold manga of all time**
 
  #### Bizness
-- :paperclip: [My Resume/CV]([(https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf])
+- :paperclip: [My Resume/CV]([https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf])
  
  </div>
  
