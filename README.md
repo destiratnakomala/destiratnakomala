@@ -11,8 +11,6 @@
 <div align="center">
     
 :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf)
-    
-<br/>
  
  📖 I’m currently working on **Deep Learning Classification**
  
