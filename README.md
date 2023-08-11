@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Soon-To-Be Data Scientist!</h3>
 
-<br/>
+<br>
 
 <div align="center">
 
