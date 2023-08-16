@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate Soon-To-Be Data Scientist!</h3>
+<h3 align="center">A passionate Data Scientist!</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
     
 :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf)
  
- 📖 I’m currently working on **Deep Learning Classification**
+ 📖 I’m currently working on **Martercard Stock Prediction using Machine Learning and Deep Learning**
  
  🌱 I’m currently learning **Machine Learning, Deep Learning, AI**
 
