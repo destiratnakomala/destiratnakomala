@@ -10,7 +10,7 @@
 
 <div align="center">
     
-:paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/cv/CVDesti%20Ratna%20Komala.pdf)
+:paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/CV/Desti%20Ratna%20Komala_CV.pdf)
  
  📖 I’m currently working on **Martercard Stock Prediction using Machine Learning and Deep Learning**
  
