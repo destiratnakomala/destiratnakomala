@@ -11,8 +11,7 @@
 <div align="center">
     
 :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/CV/Desti%20Ratna%20Komala_CV.pdf)
-
-:speech_balloon: [Portfolio](https://destiratnakomala.github.io/Portofolio/)
+:pushpin: [Portfolio](https://destiratnakomala.github.io/Portofolio/)
  
  📖 I’m currently working on **GOJEK Mobile App Sentiment Analysis using Deep Learning**
  
@@ -20,7 +19,7 @@
 
  💬 Ask me about **Data Science... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/destiratnakomala/destiratnakomala/issues))**
  
- @ How to reach me: **destiratnakomala@gmail.com**
+ :envelope_with_arrow: How to reach me: **destiratnakomala@gmail.com**
 
  ⚡ Fun fact **OnePiece is the most sold manga of all time**
  
