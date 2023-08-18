@@ -12,7 +12,7 @@
     
 :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/CV/Desti%20Ratna%20Komala_CV.pdf)
  
- 📖 I’m currently working on **Martercard Stock Prediction using Machine Learning and Deep Learning**
+ 📖 I’m currently working on **GOJEK Mobile App Sentiment Analysis using Deep Learning**
  
  🌱 I’m currently learning **Machine Learning, Deep Learning, AI**
 
