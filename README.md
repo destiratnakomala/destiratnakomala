@@ -31,6 +31,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
   </a>
+
+  [![GitHub Game of Life](https://github4life.herokuapp.com/destiratnakomala.gif?z=6)](https://github4life.herokuapp.com/destiratnakomala)
 </div>
 
  <hr/>
