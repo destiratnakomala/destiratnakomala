@@ -14,8 +14,6 @@
 :pushpin: [Portfolio](https://destiratnakomala.github.io/Portofolio/)
  
  📖 I’m currently working on **GOJEK Mobile App Sentiment Analysis using Deep Learning**
- 
- 🌱 I’m currently learning **Machine Learning, Deep Learning, AI**
 
  💬 Ask me about **Data Science... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/destiratnakomala/destiratnakomala/issues))**
  
