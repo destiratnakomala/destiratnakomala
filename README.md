@@ -32,7 +32,6 @@
 
   </a>
 
-  [![GitHub Game of Life](https://github4life.herokuapp.com/destiratnakomala.gif?z=6)](https://github4life.herokuapp.com/destiratnakomala)
 </div>
 
  <hr/>
