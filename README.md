@@ -11,7 +11,7 @@
 <div align="center">
     
 :paperclip: [My Resume/CV](https://github.com/destiratnakomala/destiratnakomala/blob/main/CV/Desti%20Ratna%20Komala_CV.pdf)
-:pushpin: [Portfolio]([https://destiratnakomala.github.io/Portofolio/](https://github.com/destiratnakomala/Portofolio))
+:pushpin: [Portfolio]([https://destiratnakomala.github.io/Portofolio/](https://github.com/destiratnakomala/Portofolio])
  
  📖 I’m currently working on **GOJEK Mobile App Sentiment Analysis using Deep Learning**
 
