@@ -18,8 +18,6 @@
  💬 Ask me about **Data Science... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/destiratnakomala/destiratnakomala/issues))**
  
  :envelope_with_arrow: How to reach me: **destiratnakomala@gmail.com**
-
- ⚡ Fun fact **OnePiece is the most sold manga of all time**
  
  </div>
  
