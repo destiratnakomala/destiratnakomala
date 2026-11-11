@@ -1,76 +1,66 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B35,50:172D50,100:243F67&height=8" width="100%" />
-
 <br/>
 
 ### GEOSCIENCE ANALYTICS SPECIALIST · AI & DATA ENGINEERING
-**Turning data into insights. Turning ideas into solutions.**
+
+**Building intelligent, data-driven solutions at the intersection of AI, Geoscience, and Energy.**
+
 <p>
   <a href="https://www.linkedin.com/in/destiratnakomala/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:destiratnakomala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/destiratnakomala?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-202B45?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-243F67?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 
-<a href="#about">ABOUT</a> &nbsp; · &nbsp;
-<a href="#projects">PROJECTS</a> &nbsp; · &nbsp;
-<a href="#toolbox">TOOLBOX</a> &nbsp; · &nbsp;
-<a href="#learning">LEARNING</a> &nbsp; · &nbsp;
+<a href="#about">ABOUT</a> &nbsp;◆&nbsp;
+<a href="#projects">PROJECTS</a> &nbsp;◆&nbsp;
+<a href="#toolbox">TOOLBOX</a> &nbsp;◆&nbsp;
+<a href="#roadmap">ROADMAP</a> &nbsp;◆&nbsp;
+<a href="#activity">ACTIVITY</a> &nbsp;◆&nbsp;
 <a href="#contact">CONTACT</a>
 
 <br/>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B35,50:172D50,100:243F67&height=10" width="100%" />
 
-<!-- ================= ABOUT ================= -->
+<!-- ABOUT -->
+<h2 id="about">01 / About Me</h2>
 
-<h2 id="about">01 / About me</h2>
-
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="top">
 
-### Hey, welcome to my corner of GitHub!
+### Focus & Mission
+I specialize in leveraging **AI, Data Engineering, and Predictive Analytics** to solve complex subsurface and operational challenges in the energy sector.
 
-I'm Desti, a technology enthusiast working at the intersection of **Data, Artificial Intelligence, and Energy**.
+My focus centers on digitizing petroleum engineering workflows, building domain-specific LLM applications, and integrating geoscience data into actionable business intelligence solutions.
 
-My professional journey started with Data Science, Machine Learning, and Data Engineering. I've worked on building data-driven applications, developing predictive models, automating workflows, and translating complex datasets into practical solutions.
-
-I believe the most interesting solutions happen when we bring different disciplines together.
-
-**My interests:**
-- Artificial Intelligence & Machine Learning
-- Data Engineering & Analytics
-- Energy & Petroleum Technology
-- Geoscience Digitalization
-- Software & Application Development
-- Generative AI & Intelligent Automation
+**Core Expertise:**
+- 🤖 Applied Machine Learning & Deep Learning
+- 🛢️ Geoscience Analytics & Data Integration
+- 🧠 Generative AI & Enterprise RAG Systems
+- 💻 Web & Business Intelligence Applications
 
 </td>
 <td width="35%" valign="top">
 
-### A little snapshot
+### Snapshot
 
-| | |
+| Parameter | Focus Area |
 |:---|:---|
-| **Currently** | Geoscience Analytics |
-| **Background** | AI & Data Science |
-| **Industry** | Energy & Geoscience |
-| **Main language** | Python |
-| **Always doing** | Learning & building |
+| **Role** | Geoscience Analytics Specialist |
+| **Domain** | Energy & Geoscience Digitalization |
+| **Stack** | Python · C# · SQL · Oracle |
+| **Target** | AI-driven Subsurface Solutions |
 
-<br/>
-
-**A simple philosophy**
-
-*Stay curious. Keep experimenting. Build things that matter.*
+> *Embrace complexity. Build solutions that drive impact.*
 
 </td>
 </tr>
@@ -78,60 +68,98 @@ I believe the most interesting solutions happen when we bring different discipli
 
 ---
 
-<!-- ================= TOOLBOX ================= -->
+<!-- PROJECTS -->
+<h2 id="projects">02 / Project Roadmap</h2>
 
-<h2 id="toolbox">02 / My toolbox</h2>
+<table width="100%">
+<thead>
+<tr>
+<th width="8%">#</th>
+<th width="28%">Initiative</th>
+<th width="44%">Scope & Objective</th>
+<th width="20%">Tech Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>01</b></td>
+<td><b>Petroleum ML Engine</b></td>
+<td>Machine learning models for production forecasting and automated reservoir analysis.</td>
+<td><code>Python</code> <code>ML</code> <code>Pandas</code></td>
+</tr>
+<tr>
+<td align="center"><b>02</b></td>
+<td><b>Geoscience Data Pipeline</b></td>
+<td>Integrated subsurface data quality checks, data cleaning, and Petrel analytical integrations.</td>
+<td><code>Python</code> <code>SQL</code> <code>Petrel</code></td>
+</tr>
+<tr>
+<td align="center"><b>03</b></td>
+<td><b>Domain RAG & Copilot</b></td>
+<td>Domain-specific GenAI assistants for technical document extraction and subsurface knowledge retrieval.</td>
+<td><code>LLM</code> <code>RAG</code> <code>Vector DB</code></td>
+</tr>
+<tr>
+<td align="center"><b>04</b></td>
+<td><b>Enterprise Analytics Portals</b></td>
+<td>Interactive desktop and web apps for real-time reporting, operational monitoring, and decision support.</td>
+<td><code>C#</code> <code>.NET</code> <code>Oracle</code></td>
+</tr>
+<tr>
+<td align="center"><b>05</b></td>
+<td><b>Subsurface Computer Vision</b></td>
+<td>Pattern recognition and computer vision pipelines for rock core sample and image analysis.</td>
+<td><code>OpenCV</code> <code>PyTorch</code></td>
+</tr>
+</tbody>
+</table>
 
-The tools I use, experiment with, and continue to explore.
+---
 
-<table>
+<!-- TOOLBOX -->
+<h2 id="toolbox">03 / Tech Toolbox</h2>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Programming & Data
-
+### 💻 Development & Engineering
+<p>
 <img src="https://skillicons.dev/icons?i=python,cs,cpp,mysql,postgres,oracle&theme=dark" />
-
-**Also working with**
-
-`Pandas` · `NumPy` · `Jupyter` · `Plotly` · `SQL`
+</p>
+<code>Pandas</code> · <code>NumPy</code> · <code>SQL</code> · <code>.NET</code> · <code>Docker</code> · <code>Git</code>
 
 </td>
 <td width="50%" valign="top">
 
-### AI & Machine Learning                                                       
-
+### 🤖 AI, ML & GenAI
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-
-**Areas of interest**
-
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs` · `RAG`
+</p>
+<code>Scikit-Learn</code> · <code>LLMs</code> · <code>RAG Architecture</code> · <code>Vector DBs</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Development & Platforms                                                       
-
-<img src="https://skillicons.dev/icons?i=dotnet,flask,git,github,vscode,docker,linux&theme=dark" />
-
-**Also working with**
-
-`Dataiku DSS` · `Power BI` · `Oracle Database`
+### 📊 Platforms & Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,linux,github,dotnet&theme=dark" />
+</p>
+<code>Dataiku DSS</code> · <code>Power BI</code> · <code>Streamlit</code> · <code>Flask</code>
 
 </td>
 <td width="50%" valign="top">
 
-### Energy & Geoscience
-
-**Exploring industry-specific technologies**
-
-`Petrel` · `QI-Next` · `tNavigator` · `Geolog`
-
-**Areas of interest**
-
-`Petroleum Engineering` · `Subsurface Data` · `Production Analytics`
+### 🌍 Energy & Geoscience Domain
+<p>
+<img src="https://img.shields.io/badge/Petrel-Subsurface-243F67?style=flat-square" />
+<img src="https://img.shields.io/badge/QI--Next-Geophysics-3977A8?style=flat-square" />
+<img src="https://img.shields.io/badge/tNavigator-Simulation-243F67?style=flat-square" />
+<img src="https://img.shields.io/badge/Geolog-Log%20Analysis-3977A8?style=flat-square" />
+</p>
+<code>Subsurface Data Pipelines</code> · <code>Production Analytics</code>
 
 </td>
 </tr>
@@ -139,88 +167,50 @@ The tools I use, experiment with, and continue to explore.
 
 ---
 
-<!-- ================= LEARNING ================= -->
+<!-- ROADMAP -->
+<h2 id="roadmap">04 / Growth Roadmap</h2>
 
-<h2 id="learning">03 / Currently learning & exploring</h2>
-
-I don't want to stop at what I already know. These are some areas I'm actively developing.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Petroleum Engineering
-
-- Petroleum Engineering with AI Applications
-- Production & Reservoir Engineering
-- Subsurface fundamentals
-
-</td>
-<td width="33%" valign="top">
-
-### Geoscience Technology
-
-- Petrel & Seismic Fundamentals
-- QI-Next
-- tNavigator
-- Geoscience Data Management
-
-</td>
-<td width="33%" valign="top">
-
-### Software & AI
-
-- C# & .NET
-- Generative AI
-- RAG & Vector Databases
-- Agentic AI
-- Modern Web Applications
-
-</td>
-</tr>
-</table>
+| Phase | Milestone | Execution Focus |
+|:---:|:---|:---|
+| **01** | **Domain Foundation** | Master Petroleum Engineering principles, reservoir concepts, and raw well log data structures. |
+| **02** | **Tooling Integration** | Connect Python data workflows directly with Petrel, QI-Next, and tNavigator pipelines. |
+| **03** | **Intelligent Systems** | Build context-aware GenAI tools and RAG systems tailored to subsurface documentation. |
+| **04** | **Deployment** | Ship scalable C# / .NET dashboards and web portals for production decision-making. |
 
 ---
 
-
-<!-- ================= GITHUB STATS ================= -->
-
-<h2>04 / GitHub activity</h2>
-
-
-<img width="75%" src="https://streak-stats.demolab.com?user=destiratnakomala&theme=transparent&hide_border=true&ring=6CA6D9&fire=6CA6D9&currStreakLabel=6CA6D9" />
-
-<br/>
-
----
-
-<!-- ================= CONTACT ================= -->
-
-<h2 id="contact">05 / Let's connect</h2>
+<!-- ACTIVITY -->
+<h2 id="activity">05 / GitHub Activity</h2>
 
 <div align="center">
 
-### Have an interesting idea? Let's make something happen.
-
-I'm always happy to connect with people working in AI, data, engineering, and energy.
-
-Whether it's a collaboration, a technical discussion, a new opportunity, or simply sharing ideas — feel free to reach out.
-
-<br/>
-
-<a href="mailto:destiratnakomala@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-Get%20in%20touch-243F67?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/destiratnakomala/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img width="80%" src="https://streak-stats.demolab.com?user=destiratnakomala&theme=transparent&hide_border=true&ring=6CA6D9&fire=6CA6D9&currStreakLabel=6CA6D9" />
 
 <br/><br/>
 
-**Thanks for stopping by!**
 
-*Keep learning. Keep building. Stay curious.*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243F67,50:172D50,100:101B35&height=8" width="100%" />
+---
+
+<!-- CONTACT -->
+<h2 id="contact">06 / Connect</h2>
+
+<div align="center">
+
+### Open for collaboration in AI, Data Engineering, and Energy Digitalization.
+
+<p>
+  <a href="mailto:destiratnakomala@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-destiratnakomala%40gmail.com-243F67?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/destiratnakomala/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Desti%20Ratna%20Komala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243F67,50:172D50,100:101B35&height=10" width="100%" />
 
 </div>
