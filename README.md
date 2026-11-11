@@ -186,9 +186,6 @@ My focus centers on digitizing petroleum engineering workflows, building domain-
 
 <img width="80%" src="https://streak-stats.demolab.com?user=destiratnakomala&theme=transparent&hide_border=true&ring=6CA6D9&fire=6CA6D9&currStreakLabel=6CA6D9" />
 
-<br/><br/>
-
-
 </div>
 
 ---
