@@ -196,7 +196,7 @@ I don't want to stop at what I already know. These are some areas I'm actively d
 
 <!-- ================= CONTACT ================= -->
 
-<h2 id="contact">07 / Let's connect</h2>
+<h2 id="contact">05 / Let's connect</h2>
 
 <div align="center">
 
